@@ -1,0 +1,17 @@
+{
+  "name": "verror",
+  "description": "Browserified VError",
+  "main": "./lib/verror-browser.js",
+  "license": "MIT",
+  "homepage": "https://github.com/rixo/node-verror",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
